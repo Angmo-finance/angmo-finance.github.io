@@ -1,0 +1,25 @@
+baseURL = "http://angmo-finance.github.io/"
+languageCode = "en-us"
+title = "Ang Mo Finance"
+theme = "kiss"
+
+enableRobotsTXT = true
+paginate = 5
+
+# theme specific settings
+
+copyright = "&copy; Yours, Ang Mo, 2021"
+
+[author]
+name = "Ang Mo"
+
+[params.info]
+enableSocial = false # Adds OpenGraph and Twitter cards
+homeTitle = "Ang Mo Finance" # Title for home page
+poweredby = false # Adds powered by hugo and kiss below Copyright
+related = false # Includes related articles at the bottom of the article
+codeCopy = false # Add copy button above code blocks
+taxonomiesCount = true # Add taxonomies count
+
+[params.sections_left]
+"/investments-tracker" = "Investments tracker"
