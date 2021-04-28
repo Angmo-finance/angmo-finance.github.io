@@ -8,7 +8,7 @@ paginate = 5
 
 # theme specific settings
 
-copyright = "&copy; Yours, Ang Mo, 2021"
+copyright = "&copy; Yours, Ang Mo, 2021<br><br>The content of this blog shares a personal opinion and experience. It is for information purposes only. It does not constitute financial advice or investment advice."
 
 [author]
 name = "Ang Mo"
