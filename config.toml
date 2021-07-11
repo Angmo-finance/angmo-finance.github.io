@@ -24,3 +24,4 @@ taxonomiesCount = true # Add taxonomies count
 
 [params.sections_left]
 "/investments-tracker" = "Investments tracker"
+"/goals" = "Goals"
