@@ -8,7 +8,7 @@ Hello there!
 
 In this blog, I want to share my finance and investment journey as an Ang Mo ([white person](https://en.wikipedia.org/wiki/Ang_mo)) in Singapore.
 
-It might be useful for young foreigners in a similar situation as I am, could be interesting for the more general public as most of the learnings are universal or it can be read just for laughs.
+It might be useful for young foreigners in a similar situation as I am. It could be interesting for the more general public as most of the learnings are universal or it can be read just for laughs.
 
 <!--more-->
 

@@ -21,7 +21,7 @@ Other similar options currently available in Singapore:
 - [SGF Vivid Savings Account](https://vividcard.sg/) - up to 20k, 1.3%
 
 [^1]: For the purpose of the emergency fund, I assume inflation as the [change in consumer price index](https://www.singstat.gov.sg/-/media/files/news/cpimar2021.pdf).
-[^2]: At the time of writing, the interest rate on the first $15,000 in [UOB One Account](https://www.uob.com.sg/personal/save/chequeing/one-account.page) is 0.25% p.a. but as I credit my salary there, so hitting $500 minimal spend results in 0.5% p.a. instead.
+[^2]: At the time of writing, the interest rate on the first $15,000 in [UOB One Account](https://www.uob.com.sg/personal/save/chequeing/one-account.page) is 0.25% p.a. but because I credit my salary there, hitting $500 minimal spend results in 0.5% p.a. instead.
 
 ### Retirement
 

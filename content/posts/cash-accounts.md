@@ -42,7 +42,7 @@ Overall the interest is so small and requires such a high balance + spend that t
 
 **Good for**: day-to-day spend. Also, some people might have spending habits to naturally qualify for higher interest. Which makes it an option for savings.
 
-I, personally, get zero interest from my bank accounts as I transfer the money out almost immediately for better use.
+I, personally, get zero interest from my bank accounts because I transfer the money out almost immediately for better use.
 
 #### Insurance saving plans
 
