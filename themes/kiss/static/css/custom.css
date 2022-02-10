@@ -1,3 +1,23 @@
-.investments-tracker table {
-  font-size: 0.8em;
+.assets-history .value {
+  text-align: right;
+}
+
+.assets-history .positive {
+  color: #439a86;
+}
+
+.assets-history .negative {
+  color: #bb4430;
+}
+
+.assets-history .total-row {
+  cursor: pointer;
+}
+
+.assets-history .categories {
+  visibility: collapse;
+}
+
+.assets-history .categories.visible {
+  visibility: visible;
 }

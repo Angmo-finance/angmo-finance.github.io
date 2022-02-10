@@ -20,11 +20,11 @@ It gave me enough free time to browse the internet and learn about new topics I 
 One of such things, I have discovered, was the personal finance and investment opportunities available in Singapore.
 
 In July 2020, for the first time, I made a *budget* for a month and began tracking my expenses. For the first time, I made an *educated investment*.
-Now, after 9 months, I still thoroughly record every transaction I make. And my investments grew in deposit size, interest returns, and the number of different services I use for it.
+Now, after 9 months, I still thoroughly record every transaction I make. And my investments grew in deposit size, interest returns, and the number of different instruments I use for it.
 
 Over time, I got passionate about the topic. I really enjoy self-educating myself. Apply the theory in practice. And, of course, use the money-saving tricks we have here in Singapore.
 
-I will do a series of posts on what I do, what I have, what I learned, what I plan and discuss multiple topics in detail.
+I will do a series of posts on what I do, what I have, what I learned, what I plan and discuss those topics in detail.
 For now, most probably, the most interesting part of my blog is fully transparent, detailed information of my investments that can be used as a real reference for people only starting their investment journey.
 
 I think writing it will help me to see the current status of my finance, see how it evolves, and learn from it as well.
@@ -38,6 +38,6 @@ Currently, I have the following accounts:
 
 As mentioned before, I will cover each of the tools and topic in detail later.
 
-Without further ado, please, jump to the [Investment tracker](/investments-tracker).
+Without further ado, please, jump to the [Investment tracker](/net-worth-tracker).
 
 Yours, Ang Mo.

@@ -23,5 +23,5 @@ codeCopy = false # Add copy button above code blocks
 taxonomiesCount = true # Add taxonomies count
 
 [params.sections_left]
-"/investments-tracker" = "Investments tracker"
+"/net-worth-tracker" = "Net Worth Tracker"
 "/goals" = "Goals"
