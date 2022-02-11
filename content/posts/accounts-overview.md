@@ -8,11 +8,11 @@ This post describes some of my current accounts, what is the reasoning behind ea
 
 <!--more-->
 
-In the [last post](/posts/budget-and-tracking/), I have explained how I understood my financial situation and released the funds for better use. I also found out I have multiple goals, so I would need different accounts for different needs.
+[Previously](/posts/budget-and-tracking/), I have explained how I understood my financial situation and released the funds for better use. I also found out I have multiple goals, so I would need different accounts for different needs.
 
 ### Emergency fund
 
-All starts with an emergency fund. The idea is to preserve a relatively small amount of money for a long time. And it must be available immediately in case of emergency.
+All starts with an emergency fund. The idea is to save some money for "rainy days". The recommended amount is 3 to 6 times of average monthly expenses. For example, if I spend $4000 per month, I'll need $12000-$24000 stashed away. And a large part of this amount should be available immediately in case of emergency.
 
 For that, I use [Singlife](https://singlife.com). It is a *capital guaranteed* insurance saving plan that provides 1.5% p.a. return on the first $10,000 and 1% p.a. on amounts above that. There is no lock-in period, and withdrawals are instant. It is crucial to mention that *returns are not guaranteed* and could be revised at any time. At the time of my enrollment, the plan returns were 2.5% p.a. but it has reduced to 1.5% since then. While the current interest rate is relatively low, it still covers inflation[^1]. And it is 1% p.a. more than my bank's account[^2]. 
 
@@ -20,12 +20,12 @@ Other similar options currently available in Singapore:
 - [Dash PET](https://dash.com.sg/dashpet) - up to 10k, 1.3% p.a., $0.7 per withdrawal
 - [SGF Vivid Savings Account](https://vividcard.sg/) - up to 20k, 1.3%
 
-[^1]: For the purpose of the emergency fund, I assume inflation as the [change in consumer price index](https://www.singstat.gov.sg/-/media/files/news/cpimar2021.pdf).
+[^1]: Here, I assume inflation as the [change in consumer price index](https://www.singstat.gov.sg/-/media/files/news/cpimar2021.pdf).
 [^2]: At the time of writing, the interest rate on the first $15,000 in [UOB One Account](https://www.uob.com.sg/personal/save/chequeing/one-account.page) is 0.25% p.a. but because I credit my salary there, hitting $500 minimal spend results in 0.5% p.a. instead.
 
 ### Retirement
 
-Expats life has many benefits but also comes with some downsides. One of such downsides is the necessity to create and execute a retirement plan without any help from the government. Safe nets such as pension (in my previous countries) or CPF in Singapore are not available to foreigners.
+Expat life has many benefits but also comes with some downsides. One of such downsides is the necessity to create and execute a retirement plan without any help from the government. Safe nets such as pension (in my previous countries) or CPF in Singapore are not available to foreigners.
 
 I found it is important to start saving up for retirement as early as possible. And that retirement savings is just a form of long-term investing that greatly benefits from the compound effect. Let's look at the example from [MoneySense](https://www.moneysense.gov.sg/articles/2018/10/introduction-to-retirement-planning), a governmental website of Singapore:
 
@@ -58,7 +58,7 @@ After thorough research, I found a [robo-advisor](https://www.investopedia.com/t
 - The past returns of all robos I have found are very decent and are able to provide 6% p.a. even for a low-risk portfolio.
 - There are no instruments with lower fees except DIY investing.
 
-If we get a bit more into details, robos can invest either into [Unit Trusts](https://www.investopedia.com/terms/u/unittrust.asp) or [ETFs](https://www.investopedia.com/terms/e/etf.asp). Each robo-advisor has its own strategy for the algorithms. They can be based on different economic theories and require a different amount of human intervention. 
+If we get a bit more into details, robos can invest either into [Unit Trusts](https://www.investopedia.com/terms/u/unittrust.asp) or [ETFs](https://www.investopedia.com/terms/e/etf.asp). Each robo-advisor has its own strategy for the algorithms. They can be based on different economic theories and require a different amount of human intervention. But it is a story for another time.
 
 ##### My choice
 
@@ -70,7 +70,7 @@ Syfe is also an interesting robo, especially since they launched Core portfolios
 
 I started with StashAway 18% that generated me ~10% p.a. return to date. I also found I can stomach volatility rather fine and with such a long period of investment, it would make sense to take more risk. That is why I recently increased the risk index to 22% and I might increase it further in the future.
 
-For the latest update on the numbers, see my [investments tracker](/investments-tracker) page. It also contains referral links that provide some goodies.
+For the latest update on the numbers, see my [investments tracker](/net-worth-tracker) page. It also contains referral links that provide some goodies.
 
 That's all for today. In the next post, I will cover the rest of the instruments I use.
 

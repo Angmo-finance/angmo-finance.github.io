@@ -13,7 +13,7 @@ And to make a budget, I needed to know my expenses.
 
 Many people out there start budgeting to solve their debt problems or to be able to save up. In my case, I was looking for better use of the cash that was hanging in my bank account. In the current reality of low interest rates, my UOB checking account was producing just 0.5% p.a. That is way lower than inflation. So, technically, every month, I was losing a bit of money. Sad.
 
-Thanks to the Internet, I learned about the world of investment. But how much can I safely invest? And how much money should I keep in my checking account? My rent is $2000 and, thanks to the bank app showing basic statistics, I knew my monthly spending is around $1500-2000. Does it mean I can simply keep $2-4k and throw the rest somewhere else to earn me better returns?
+Thanks to the Internet, I learned about the world of investments. But how much can I safely invest? And how much money should I keep in my checking account? My rent is $2000 and, thanks to the bank app showing basic statistics, I knew my monthly spending is around $1500-2000. Does it mean I can simply keep $2-4k and throw the rest somewhere else to earn me better returns?
 
 Not that simple. I made a list of the things on which I might need liquid money:
 1. Emergency fund. In case something happens like losing a job, I can still pay rent, eat, buy a flight ticket to go home.
@@ -32,6 +32,8 @@ But do I *really* need to keep $30k in my checking account? Actually not. I don'
 Cool. It means I just need to _plan_ my expenses. If I know my goals, I can contribute to them in small amounts monthly to reach them on time. I need a budget.
 
 I remembered an idea I stumbled on a while ago that could be very useful here: Zero-based budgeting. It means I need to plan all my spendings, assign some purpose or a "job" to every single dollar of my savings and income and the rest I can invest.
+
+#### Finding the right tool
 
 Quick googling showed that the most popular app for this approach is [YNAB](https://www.youneedabudget.com/). They give the first month for free, so I decided to try it.
 

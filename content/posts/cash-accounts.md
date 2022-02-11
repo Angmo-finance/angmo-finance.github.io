@@ -21,7 +21,7 @@ While providing the following benefits that hard cash doesn't have:
 - Insurance. The government often ensures that the failure of a bank or a company won't affect account holders (up to some limit).
 - Small interest. While hard cash only depreciates in value, cash accounts might keep up with the inflation.
 
-Let's first take a look at what type of cash accounts exist on the market, in the order from lower to higher risk.
+Let's first take a look at what types of cash accounts exist on the market, in the order from lower to higher risk.
 
 ### Types of cash accounts
 
@@ -64,8 +64,8 @@ Keep in mind:
 - Sometimes includes additional fees on withdrawal.
 - Sometimes requires a small lock-in period.
 
-**Good for**: anything that locks money for the middle or long term and requires quick access to the money. Examples:
-- Emergency fund. Lost of income and any force-major circumstances.
+**Good for**: any middle or long term savings that require quick access to the money. Examples:
+- Emergency fund. Loss of income and any force-major circumstances.
 - Middle-term savings. That expensive vacation on another side of the globe in 8 months can bring few extra bucks now.
 - Money waiting for investment opportunities. Are you trying to time the market and expect another sell-off in upcoming months/years? An insurance saving plan can generate a little return on unused funds.
 
@@ -77,7 +77,7 @@ I, personally, keep my emergency fund in Singlife. It generated $134 in 10 month
 
 Insurance saving plans are great but provide reasonable interest only on a small amount, around $10,000.
 
-An alternative would be a very low-risk investment most robo-advicers offer. Such accounts invest into a set of very low-risk level funds but take smaller fees compare to investing into the funds directly.
+An alternative would be a very low-risk investment most robo-advisers offer. Such accounts invest into a set of very low-risk level funds but take smaller fees compare to investing into the funds directly.
 
 Few examples:
 - [Syfe Cash+](https://www.syfe.com/cash-plus) - ~1.5%
