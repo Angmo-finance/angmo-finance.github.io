@@ -1,10 +1,10 @@
 ---
-title: "The $100,000 goal archived"
+title: "The $100,000 milestone archived"
 date: 2022-02-11T12:00:00+08:00
 draft: false
 ---
 
-Less than half a year ago I published a list of my financial goals and now I'm pleased to report the second goal, S$100,000 net worth, is archived! It also coincided with the end of the year, so I'll use the opportunity to do the year end review.
+Less than half a year ago I published a list of my financial goals and now I'm pleased to report the second milestone, S$100,000 net worth, is archived! It also coincided with the end of the year, so I'll use the opportunity to do the year end review.
 
 <!--more-->
 
@@ -135,7 +135,7 @@ This category is also in red because some of the companies I like are located in
 
 I'm very excited to reach this milestone so fast.
 
-Despite current state of the portfolio I feel optimistic about the future and believe I'll be able to archive my next goal soon.
+Despite current state of the portfolio and macro headwind I feel optimistic about the future and believe I'll be able to archive my next goal soon.
 
 I'll also publish another post with my learnings on the way to 100k soon.
 
