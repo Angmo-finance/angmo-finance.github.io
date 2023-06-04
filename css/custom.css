@@ -21,3 +21,9 @@
 .assets-history .categories.visible {
   visibility: visible;
 }
+
+.content img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
