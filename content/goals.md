@@ -1,5 +1,5 @@
 ---
-title: "Goals"
+title: 'Goals'
 date: 2021-07-11T18:10:00+08:00
 draft: false
 hidden: false
@@ -25,24 +25,28 @@ In particular:
 
 I have just started my investment journey, and I've planned my route up to S$1,000,000.
 
-Year | Target        | Progress | Archived on | Note
------|---------------|----------|-------------|----------
-2021 | $50,000.00    | 100%     | May 2021    | 1 year from ~nothing
-2022 | $100,000.00   | 100%     | Dec 2021    | Accelerated savings
-2023 | $200,000.00   | 52.67%   |             |
-2024 | $350,000.00   | 30.10%   |             |
-2025 | $500,000.00   | 21.07%   |             |
-2026 | $1,000,000.00 | 10.53%   |             |
+(The table updated in June 2023 the last time)
 
-I want to stress that the goals I set myself are very ambiguous.
+| Year | Target        | Progress | Archived on | Note                      |
+| ---- | ------------- | -------- | ----------- | ------------------------- |
+| 2021 | $50,000.00    | 100%     | May 2021    | 1 year from ~nothing      |
+| 2022 | $100,000.00   | 100%     | Dec 2021    | Accelerated savings       |
+| 2023 | $200,000.00   | 100%     | Mar 2023    | Despite multiple setbacks |
+| 2024 | $350,000.00   | 68.27%   |             |
+| 2025 | $500,000.00   | 47.79%   |             |
+| 2026 | $1,000,000.00 | 23.89%   |             |
+
+I want to stress that the goals I set myself are very ambitious.
 With my current saving rate by 2026, I will have _3 times_ less worth than planned.
 That means I'll have to either make much more money, take more risks or adjust the numbers as years pass by.
 
 ### Family
 
-I plan to start my own family by **2022**.
+~~I plan to start my own family by **2022**.~~
 
-Not many details here as it is rather personal topic. But it will require extra expenses.
+~~Not many details here as it is rather personal topic. But it will require extra expenses.~~
+
+I got happily married in October 2022. And I'm expecting to become a father in **2024**.
 
 ### Housing
 
